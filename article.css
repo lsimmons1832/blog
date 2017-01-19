@@ -1,0 +1,71 @@
+header {
+	background-color: #000;
+	color: white;
+	padding: 60px;
+	font-family: 'Rock Salt';
+}
+
+body{
+	background-color: #9099a2;
+}
+
+.header1,
+#article1 {
+	color: #062f4f;
+	font-family: 'Homemade Apple';
+}
+
+/*#article1 {
+	color: #062f4f;
+	font-family: 'Homemade Apple';
+}*/
+
+
+.header2,
+#article2 {
+		color: #FF6E0D;
+		font-family: 'Calligraffitti';
+		background-color: #813772;
+		padding: 0;
+		margin: 0;
+}
+
+/*#article2 {
+		color: #FF6E0D;
+		font-family: 'Calligraffitti';
+}*/
+
+.header3,
+ #article3 {
+	color: #813772;
+	font-family: 'Annie Use Your Telescope';
+	font-weight: bold;
+	background-color: #062f4f;
+	padding: 0;
+	margin: 0;
+}
+
+/*#article3 {
+	color: #813772;
+	font-family: 'Annie Use Your Telescope';
+}*/
+
+.header4 {
+	color: #b82601;
+	font-family: 'Nothing You Could Do';
+}
+
+#article4 {
+	color: #b82601;
+	font-family: 'Nothing You Could Do';
+}
+
+.header5 {
+	color: #E80CA3;
+	font-family: 'Waiting for the Sunrise';
+}
+
+#article5 {
+	color: #E80CA3;
+	font-family: 'Waiting for the Sunrise';
+}
