@@ -9,7 +9,19 @@ body{
 	background-color: #062f4f;
 }
 
-.header1 {
+.section1 {
+	background-color: #b82601; 
+	color: #062f4f;
+	font-family: 'Homemade Apple';
+	font-size: 24px;
+	margin: 3px;
+	padding: 1em;
+	line-height: 1.5;
+	border-radius: 20px;
+}
+
+
+/*#article1 {
 	background-color: #b82601; 
 	color: #062f4f;
 	font-family: 'Homemade Apple';
@@ -17,20 +29,8 @@ body{
 	margin: 0;
 	padding: 1em;
 	line-height: 1.5;
-	border-radius: 20px;
-}
-
-
-#article1 {
-	background-color: #b82601; 
-	color: #062f4f;
-	font-family: 'Homemade Apple';
-	font-size: 24px;
-	margin: 1px;
-	padding: 1em;
-	line-height: 1.5;
 	border-radius: 15px;
-}
+}*/
 
 /*#article1 {
 	color: #062f4f;
@@ -38,16 +38,15 @@ body{
 }*/
 
 
-.header2,
-#article2 {
+.section2 {
 		color: #FF6E0D;
 		font-family: 'Calligraffitti';
 		font-size: 22px;
 		background-color: #c72b03;
 		padding: 1.25em;
-		margin: 0;
+		margin: 3px;
 		line-height: 2;
-		border: 2px solid #b82601;
+		border: 5px solid #b82601;
 }
 
 /*#article2 {
@@ -55,16 +54,16 @@ body{
 		font-family: 'Calligraffitti';
 }*/
 
-.header3,
- #article3 {
+.section3 {
 	color: #3B1834; /*#062c4c*/
 	font-family: 'Annie Use Your Telescope';
 	font-size: 20px;
 	background-color: #C63510;
 	padding: 1.75em;
-	margin: 0;
+	margin: 3px;
 	line-height: 2.5;
 	border: 5px dotted #E64D25;
+	border-radius: 25%;
 }
 
 /*#article3 {
@@ -72,17 +71,7 @@ body{
 	font-family: 'Annie Use Your Telescope';
 }*/
 
-.header4 {
-	color: #b82601;
-	font-family: 'Nothing You Could Do';
-	background-color: #E64D25;
-	margin: 0;
-	padding: 2em;
-	line-height: 2.25;
-	border-radius: 50px;
-}
-
-#article4 {
+.section4 {
 	color: #b82601;
 	font-family: 'Nothing You Could Do';
 	font-size: 18px;
@@ -93,7 +82,7 @@ body{
 	border-radius: 50px;
 }
 
-.header5 {
+.section5 {
 	color: #782D69;
 	font-family: 'Waiting for the Sunrise';
 	background-color: #E55A35;
@@ -101,10 +90,11 @@ body{
 	padding: 2.25em;
 	line-height: 1.75;
 	border: 4px dotted #C63510;
-	border-radius: 25px;
+	border-radius: 60%;
+	text-align: center;
 }
 
-#article5 {
+/*#article5 {
 	color: #782D69;
 	font-family: 'Waiting for the Sunrise';
 	font-size: 16px;
@@ -113,7 +103,7 @@ body{
 	padding: 2.25em;
 	line-height: 2.25;
 	border: 4px dotted #C63510;
-	border-radius: 25px;
+	border-radius: 25px;*/
 }
 footer {
 	padding: 1rem;
